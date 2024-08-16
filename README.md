@@ -1,0 +1,2 @@
+# automagiko
+Generative AI platform 
